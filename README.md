@@ -12,3 +12,5 @@ The project can be run by running the command "node server.js" in the root direc
 ## Instructions
 
 This will require modifying the `server.js` file and the `website/app.js` file. You can see `index.html` for element references, and once you are finished with the project steps, you can use `style.css` to style your application to customized perfection.
+
+## [Live Site](https://udacityweatherjournalapp.herokuapp.com/)
